@@ -64,6 +64,8 @@
 <p align="center"><img src="https://img.shields.io/badge/react-1589F0?style=for-the-badge&logo=react&logoColor=black" height="20" align="center">
 <p align="center"><img src="https://img.shields.io/badge/spring-FF008000?style=for-the-badge&logo=spring&logoColor=black" height="20" align="center">
 <p align="center"><img src="https://img.shields.io/badge/tailwindcss-0000FF?style=for-the-badge&logo=tailwindcss&logoColor=black" height="20" align="center">
+<p align="center"><img src="https://img.shields.io/badge/postgresql-FF008000?style=for-the-badge&logo=postgresql&logoColor=black" height="20" align="center">
+
 
 
 <h3 align="center">🗂️ License</h3><p align="center"><img alt="GitHub" src="https://img.shields.io/github/license/osamhack2020/Web_Drawing-chat-consulation_Stones-in-greenhouse" align="center"></a></p>
